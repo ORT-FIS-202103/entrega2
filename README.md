@@ -6,7 +6,7 @@ Plantilla para informe académico entrega 2
 M4A - Docente: Alejandro Adorjan
 María González, Juan Rodríguez
 17/06/2021
-https://github.com/FIS-202103/entrega2-gonzales-rodriguez.git
+https://github.com/FIS-202103/entrega2-gonzalez-rodriguez.git
 
 # Construcción
 
